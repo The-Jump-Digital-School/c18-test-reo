@@ -1,4 +1,4 @@
-# c18-test-reo
+# c18-test-repo
 
 This is the test push/pull repo for C18.
 
